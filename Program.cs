@@ -2,11 +2,11 @@
 
 
 Console.Write("Ededi daxil edin :");
-int num = int.Parse(Console.ReadLine());
-while (num < 1)
+int number = int.Parse(Console.ReadLine());
+while (number < 1)
 {
     Console.Write("Yeniden daxil edin :");
-    num = int.Parse(Console.ReadLine());
+    number = int.Parse(Console.ReadLine());
 }
 
 while (number % 2 == 0)
