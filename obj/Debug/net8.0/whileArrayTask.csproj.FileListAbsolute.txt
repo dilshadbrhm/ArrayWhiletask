@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\bin\Debug\net8.0\whileArrayTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\bin\Debug\net8.0\whileArrayTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\bin\Debug\net8.0\whileArrayTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\bin\Debug\net8.0\whileArrayTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\bin\Debug\net8.0\whileArrayTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\whileArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\whileArrayTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\whileArrayTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\whileArrayTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\whileArrayTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\whileArrayTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\refint\whileArrayTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\whileArrayTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\whileArrayTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\whileArrayTask\obj\Debug\net8.0\ref\whileArrayTask.dll
